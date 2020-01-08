@@ -1,0 +1,11 @@
+name: minfi
+channels:
+    - conda-forge
+    - r 
+    - bioconda
+    - defaults
+dependencies:
+    - r
+    - r-argparse
+    - bioconductor-minfi
+
